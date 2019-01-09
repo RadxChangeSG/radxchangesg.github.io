@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: RadicalxChange Singapore chapter
-logo: "./logo.png"
+logo: ./logo.png
 twitter_username: RadxCSG
