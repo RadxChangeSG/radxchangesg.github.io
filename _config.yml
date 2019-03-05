@@ -3,15 +3,6 @@
 #
 
 # Name of your site (displayed in the header)
-<<<<<<< HEAD
-name: RadicalxChange Singapore 
-
-# Short bio or description (displayed in the header)
-description: Singapore chapter of RadicalxChange
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/radxchangesg/radxchangesg.github.io/master/images/logo.png
-=======
 name: ying tong 映彤 
 
 # Short bio or description (displayed in the header)
@@ -19,7 +10,6 @@ description: welcome to my tumblr
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/therealyingtong/therealyingtong.github.io/master/images/jekyll-logo.jpg
->>>>>>> f0f63f84723aaf1880705255547808beebcd1a16
 
 #
 # Flags below are optional
@@ -28,26 +18,15 @@ avatar: https://raw.githubusercontent.com/therealyingtong/therealyingtong.github
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-<<<<<<< HEAD
-  email: radxchangesg@gmail.com
-  facebook:
-  flickr:
-  github: radxchangesg
-=======
   email: yingtong@ethereum.org
   facebook:
   flickr:
   github: therealyingtong
->>>>>>> f0f63f84723aaf1880705255547808beebcd1a16
   instagram:
   linkedin:
   pinterest:
   rss: just type anything here for a working RSS icon
-<<<<<<< HEAD
-  twitter: radxchangesg
-=======
   twitter: therealyingtong
->>>>>>> f0f63f84723aaf1880705255547808beebcd1a16
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
