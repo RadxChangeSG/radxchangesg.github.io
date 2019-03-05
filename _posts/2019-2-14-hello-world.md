@@ -4,7 +4,6 @@ title: Introducing RadicalxChange Singapore
 ---
 
 ![](https://raw.githubusercontent.com/radxchangesg/radxchangesg.github.io/master/images/logo.png)
-
 RadicalxChange is a foundation led by economist Glen Weyl, built on the discussion that grew around Radical Markets: Uprooting Capitalism and Democracy for a Just Society (2018). The book pointed out flaws in existing markets and political systems, and proposed radical ways of restructuring property, voting, immigration, antitrust, and data ownership.
 
 The conversation has since branched out to other disciplines and sectors, such as the Arts, open source funding, and more. Broadly, there have emerged four working group ‘tracks’:
