@@ -23,28 +23,6 @@ The conversation has since branched out to other disciplines and sectors, such a
 
 covering themes such as economy, politics, space, collective action, and identity.
 
-
-## Why RxC Singapore?
-
-RadicalxChange Singapore is the first RxC chapter we know of in Asia. Like the other chapters, it is autonomous from the Foundation but works collaboratively to contribute resources and discourse to the community.
-
-Controversial ideas can serve as a good catalyst for conversation: we think Radical Markets brought up plenty of those, and know of many communities in Singapore who want to critically engage with with economic and social policies.
-Chapter structure and governance:
-Regular meetups
-
-Face-to-face meetups are a great way for chapter members to share what they're working on, and get to know each other better. These meetups will likely involve a combination of structured activities (lightning talks, workshops) and unstructured time.
-
-
-## RxC Singapore Labs
-
-We expect many chapter members will already be working on their own projects, or looking for a team to join. RxC Singapore Labs is an informal "accelerator" program run by volunteer project managers, developers, and designers. As is convention in open source projects, we will use Github (https://github.com/RadxChangeSG/) as a collaboration platform.
-Hackathons and community events
-
-We look forward to supporting local events like hackathons and meetups, be it as experts or as participants. We are currently in discussion with Yale-NUS College Singapore to support a blockchain hackathon in early Mar 2019.
-Decentralised and democratic structure
-
-RxC Singapore is a collective of interested individuals and groups, driven by a spirit of experimentation and collaboration. The question of chapter governance is very much an open one, and presents an opportunity to experiment with methods like quadratic voting.
-
 ## Who should join:
 
 We welcome economists, hackers, political scientists, artists, environmentalists, mathematicians, lawyers, sociologists, engineers, historians, designers, and anyone interested in building better economic and political systems.
