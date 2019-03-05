@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: links
 permalink: /links/
 ---
@@ -15,3 +16,10 @@ permalink: /links/
 * Telegram group: [t.me/rxcsg](t.me/rxcsg)
 * RadicalxChange forum: [forum.radicalxchange.org](https://forum.radicalxchange.org)
 
+=======
+title: things i like
+permalink: /links/
+---
+
+[radxchangesg.github.io](radxchangesg.github.io)
+>>>>>>> f0f63f84723aaf1880705255547808beebcd1a16
