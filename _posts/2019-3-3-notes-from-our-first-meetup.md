@@ -3,10 +3,11 @@ layout: post
 title: Notes from RadicalxChange Singapore’s first meetup
 ---
 
-On the last day of February 2019, a group of 18-odd people came together on the third floor of a shophouse in Singapore’s historic city centre, to talk about existing political and socioeconomic systems, and to engage with new ways of thinking about them. Here are some ideas that emerged from RadicalxChange Singapore’s first meetup:
-
 ![](https://raw.githubusercontent.com/radxchangesg/radxchangesg.github.io/master/images/meetup1.jpg)
 A designer, a developer, a community organiser, a data scientist, a marketing executive, an asker of questions, a historian, a computer science student, and an astronomer walk into a shophouse on Jln Pinang…
+
+
+On the last day of February 2019, a group of 18-odd people came together on the third floor of a shophouse in Singapore’s historic city centre, to talk about existing political and socioeconomic systems, and to engage with new ways of thinking about them. Here are some ideas that emerged from RadicalxChange Singapore’s first meetup:
 
 ## Diversity: anti-groupthink
 
