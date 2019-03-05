@@ -1,9 +1,7 @@
 ---
 layout: post
-title: introducing: RadicalxChange Singapore
+title: Introducing: RadicalxChange Singapore
 ---
-
-![](https://raw.githubusercontent.com/radxchangesg/radxchangesg.github.io/master/images/logo.png)
 
 ## What is RadicalxChange?
 
@@ -17,6 +15,8 @@ The conversation has since branched out to other disciplines and sectors, such a
 * Ideas and Research,
 
 covering themes such as economy, politics, space, collective action, and identity.
+
+![](https://raw.githubusercontent.com/radxchangesg/radxchangesg.github.io/master/images/logo.png)
 
 ## Why RxC Singapore?
 
