@@ -49,10 +49,10 @@ We started the meetup with a high-level discussion on systems, trends in politic
 - Scarcity and licensing for digital art
   - Open Art Consortium and Chemistry have been scoping out a way to tokenise digital art and track its usage and payment;
   - the project is moving forward and looking for technical perspectives from engineers and develop.
-  Coercion-resistant quadratic voting with zkSNARKs 
+- Coercion-resistant quadratic voting with zkSNARKs 
   - Semaphore and mixnets can enable coercion-resistant voting with zkSNARKS;
   - adding a quadratic voting element and considering Sybil resistance would be interesting.
-  Smart contracts for liquidity and licensing in bone marrow donor registries 
+- Smart contracts for liquidity and licensing in bone marrow donor registries 
   - many bone marrow donor registries face bottlenecks in raising money to recruit donors;
   - #DeFi instruments to allow small registries to raise funds and enter licensing agreements with investors could improve liquidity and efficiency of registries
 
