@@ -6,9 +6,9 @@ permalink: /about/
 
 ## Upcoming activities:
 
-**22–24 Mar 2019**: RadicalxChange Detroit Conference. Join us as a community organiser/participant to qualify for the Community Scholarship! (More information at: https://radicalxchange.org/about/#scholarship-information)
+**22–24 Mar 2019**: RadicalxChange Detroit Conference. Join us as a community organiser/participant to qualify for the Community Scholarship! (More information at: [https://radicalxchange.org/about/#scholarship-information](https://radicalxchange.org/about/#scholarship-information))
 
-**11 Apr 2019**: RadicalxChange Singapore second meetup: https://www.meetup.com/RadicalxChange-Singapore/events/259425910/. (Agenda TBD)
+**11 Apr 2019**: RadicalxChange Singapore second meetup: [https://www.meetup.com/RadicalxChange-Singapore/events/259425910/](https://www.meetup.com/RadicalxChange-Singapore/events/259425910/). (Agenda TBD)
 
 ## What is RadicalxChange?
 
