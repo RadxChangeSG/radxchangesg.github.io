@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diversity and locality: Notes from RadicalxChange Singapore’s first meetup
+title: Notes from RadicalxChange Singapore’s first meetup
 ---
 
 # Diversity and locality: Notes from RadicalxChange Singapore’s first meetup
