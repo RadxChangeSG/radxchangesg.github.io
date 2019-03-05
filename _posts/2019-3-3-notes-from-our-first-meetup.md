@@ -3,6 +3,8 @@ layout: post
 title: Diversity and locality: Notes from RadicalxChange Singapore’s first meetup
 ---
 
+# Diversity and locality: Notes from RadicalxChange Singapore’s first meetup
+
 On the last day of February 2019, a group of 18-odd people came together on the third floor of a shophouse in Singapore’s historic city centre, to talk about existing political and socioeconomic systems, and to engage with new ways of thinking about them. Here are some ideas that emerged from RadicalxChange Singapore’s first meetup:
 
 ![](https://raw.githubusercontent.com/radxchangesg/radxchangesg.github.io/master/images/meetup1.jpg)
