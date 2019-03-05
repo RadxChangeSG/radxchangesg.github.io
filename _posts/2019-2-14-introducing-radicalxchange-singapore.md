@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing: RadicalxChange Singapore
+title: Introducing RadicalxChange Singapore
 ---
 
 ## What is RadicalxChange?
