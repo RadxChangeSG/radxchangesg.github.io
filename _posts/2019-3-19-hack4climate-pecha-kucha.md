@@ -1,4 +1,8 @@
-# [hack4climate](hack4climate.com) pecha kucha 
+---
+layout: post
+title: hack4climate pecha kucha
+---
+
 On 15 Mar 2019, Yale-NUS College hosted a hack4climate.live [pecha kucha](https://en.wikipedia.org/wiki/PechaKucha) night focusing on social impact projects in the blockchain space. This is a rapid-fire style of knowledge sharing, where each presenter has 15 slides and goes through them at the rate of 20 seconds per slide. It made for a streamlined presentation of each project's 'headlines'; but to really digest what we learned, we decided to spend some time on deeper research. 
 
 These projects were diverse in both approach and domain; in this case, what they had in common was the use of a blockchain in some way to promote coordination towards social goods, including climate action, renewable energy, and community action and corporate social responsibility. 
