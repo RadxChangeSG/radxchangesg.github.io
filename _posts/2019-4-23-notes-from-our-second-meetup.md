@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RxC SG #2: Pop-up Economies
+title: RxC SG no. 2: Pop-up Economies
 ---
 
 ![](https://storage.googleapis.com/ethereum-hackmd/upload_915b9b6cc187fb8d19e9feacc9bd01aa.jpg)
